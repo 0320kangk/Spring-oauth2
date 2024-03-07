@@ -36,4 +36,4 @@ out/
 ### VS Code ###
 .vscode/
 ### ouath2 ###
-application-oauth.properties
+/src/main/resources/application-oauth.yml
