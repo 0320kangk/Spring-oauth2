@@ -5,11 +5,11 @@ spring:
       client:
         registration:
           google:
-            client-id: 
-            client-secret: 
+            client-id: 595137599284-2i1g8tpn9cooh0b4h2aevem4g059vohr.apps.googleusercontent.com
+            client-secret: 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
             scope:
-              - profile 클라이언트 ID
-              - email 클라이언트 보안 비밀번호
+              - profile
+              - email
           naver:
             client-id: AAnEIsBV1xfjQ3KeUYZI
             client-secret: Vk8R_MBlQn
